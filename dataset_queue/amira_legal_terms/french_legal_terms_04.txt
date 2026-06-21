@@ -1,5 +1,0 @@
-service public
-rendez-vous
-retard
-refus
-document manquant
