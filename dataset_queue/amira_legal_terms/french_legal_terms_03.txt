@@ -1,0 +1,14 @@
+commissariat
+gendarmerie
+préfecture
+province
+commune
+arrondissement
+autorisation
+permis
+attestation
+extrait de naissance
+acte de naissance
+carte nationale
+carte d’identité nationale
+état civil
