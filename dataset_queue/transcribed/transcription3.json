@@ -1,0 +1,77 @@
+[
+  {
+    "file": "french_legal_terms_00.wav",
+    "text": "plainte réclamation doléance tribunal cour d'appel juge président procureur ministère public avocat maître greffier audience séance dossier numéro de dossier procès-verbal procès-verbal contravention",
+    "verified": true
+  },
+  {
+    "file": "french_legal_terms_01.wav",
+    "text": "délit crime infraction blanchiment d'argent trafic de stupéfiants stupéfiants antécédents judiciaires casier judiciaire peine prison ferme sursis amende article code pénal code de procédure pénale mise en cause accusé",
+    "verified": true
+  },
+  {
+    "file": "french_legal_terms_02.wav",
+    "text": "prévenu inculpé témoin victime partie civile plaider jugement verdict appel pourvoi notification convocation mandat mandat d'arrêt",
+    "verified": true
+  },
+  {
+    "file": "french_legal_terms_03.wav",
+    "text": "commissariat gendarmerie préfecture province commune arrondissement autorisation permis attestation extrait de naissance acte de naissance carte nationale carte d'identité nationale état civil",
+    "verified": true
+  },
+  {
+    "file": "french_legal_terms_04.wav",
+    "text": "service public rendez-vous retard refus document manquant",
+    "verified": true
+  },
+  {
+    "file": "legal_sentences_00.wav",
+    "text": "المحكمة قررت تأجيل الجلسة إلى تاريخ لاحق. النيابة العامة تابعت المتهم من أجل جنحة غسل الأموال. المتهم عندو سوابق قضائية واش كتعترف بالمنسوب إليك؟ أنا بريء وما عنديش علاقة بهاد الأموال و ماشي ديالي. المحامي طلب السراح المؤقت للمتهم. كاتب الضبط سجل تصريحات المتهم",
+    "verified": true
+  },
+  {
+    "file": "legal_sentences_01.wav",
+    "text": "الضابطة القضائية أنجزت محضر في القضية. الشاهد صرح بأنه ما شاف حتى حاجة. المحكمة غادي تدخل الملف للمداولة. و الحكم صدر باسم جلالة الملك وطبقا للقانون. الحسابات البنكية فيها تحويلات مالية مشبوهة. كاينين عقارات وشركات وفواتير مرتبطة بالملف. مصدر الأموال",
+    "verified": true
+  },
+  {
+    "file": "legal_sentences_02.wav",
+    "text": "الأموال مازال غير واضح. المتهم قال بأن العقارات ماشي ديالو. الدفاع قال بأن الملف خاصو خبرة مالية. النيابة العامة طلبت إدانة المتهم. المحكمة قررت البراءة لعدم كفاية الأدلة. المحكمة حكمت على المتهم بالحبس النافذ. هاد القضية فيها جانب قانوني وجانب مالي.",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_00.wav",
+    "text": "الجلسة افتتاح الجلسة تأجيل الجلسة رفع الجلسة جلسة علنية جلسة سرية الملف رقم الملف القضية الحكم النطق بالحكم المداولة الاستئناف النقض المحكمة الابتدائية محكمة الاستئناف",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_01.wav",
+    "text": "النيابة العامة الوكيل العام للملك وكيل الملك القاضي هيئة الحكم كاتب الضبط المتهم المشتكي الضحية الشاهد المحامي الدفاع الطرف المدني الخبير المترجم الحاضر",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_02.wav",
+    "text": "المتغيب المصرح الموقوف المعتقل السراح المؤقت جنحة جناية مخالفة تهمة المنسوب إليك الأفعال المنسوبة إليك الأفعال المنصوص عليها طبقا للقانون القانون الجنائي المسطرة الجنائية",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_03.wav",
+    "text": "سوابق قضائية الحبس النافذ الحبس الموقوف التنفيذ الغرامة البراءة الإدانة المتابعة الاعتقال الاحتياطي غسل الأموال تبييض الأموال تحويلات مالية حسابات بنكية مصدر الأموال الأموال المشبوهة أصول",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_04.wav",
+    "text": "أصول تجارية عقارات شركات فواتير مداخيل أرباح أملاك ممتلكات رصيد بنكي مبلغ مالي خمسة مليار سنتيم درهم مليون مليار سنتيم محضر محضر الضابطة القضائية البحث التمهيدي",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_05.wav",
+    "text": "التحقيق الاستماع التصريح أقوال المتهم أقوال الشاهد الحجز التفتيش الأدلة القرائن المشتبه فيه الأمن الوطني الدرك الملكي الشرطة القضائية شكاية طلب رخصة شهادة وثيقة البطاقة الوطنية",
+    "verified": true
+  },
+  {
+    "file": "legal_terms_06.wav",
+    "text": "عقد الازدياد الحالة المدنية الجماعة المقاطعة العمالة الولاية المحافظة العقارية الصندوق الوطني للضمان الاجتماعي الضرائب الخزينة العامة السجل التجاري",
+    "verified": true
+  }
+]
